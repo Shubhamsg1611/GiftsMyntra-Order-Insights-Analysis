@@ -9,6 +9,8 @@ The "GiftsMyntra Order Insights & Analytics" dataset provides a comprehensive ov
   - Product Insights: Analysis of the order quantities across product categories, popular product items, and the performance of various products within the categories.
   - Customer Demographics: Breakdown of customer profiles by gender, location, occasion, and order quantity. This also includes city-wise and state-wise customer distribution.
 
+![](https://github.com/Shubhamsg1611/GiftsMyntra-Order-Insights-Analysis/blob/main/GiftsMyntra%20Dashboard.jpeg)
+
 ## Summary:
 - Order Insights:
     - Total Orders Placed: 10,000 orders
